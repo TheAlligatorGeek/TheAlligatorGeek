@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheAlligatorGeek
 - 👀 I’m interested in Coding, Video Editing, Music, etc.
-- 🌱 I’m currently learning Swift in XCode
+- 🌱 I’m currently learning JavaFX
 - 📫 How to reach me: thealliagtorgeek@gmail.com
 
 <!---
